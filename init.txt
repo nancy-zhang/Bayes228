@@ -1,1 +1,1 @@
-code for bayesian methods
+useful code for bayesian methods
